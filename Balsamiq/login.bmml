@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="944" measuredH="705" mockupW="812" mockupH="659">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="132" y="46" w="812" h="659" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="159" y="137" w="-1" h="-1" measuredW="165" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Hi%20Seoul</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="132" y="188" w="812" h="27" measuredW="362" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C</hrefs>
+        <selectedIndex>-1</selectedIndex>
+        <text>Info%2C%20Giude%2C%20Tourist%2CBest%20Tour%2CCommunity</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="423" w="288" h="-1" measuredW="79" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="470" w="288" h="-1" measuredW="79" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="470" y="337" w="-1" h="-1" measuredW="107" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="333" y="421" w="-1" h="-1" measuredW="25" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="308" y="468" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PWD</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="703" y="431" w="77" h="62" measuredW="53" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>user%26bm%3Buser.bmml%26bm%3Buser.bmml%26bm%3Buser.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22571%2C385%2C648%2C447%22%20href%3D%22user.bmml%22%20alt%3D%22user%22%20id%3D%2212%22/%3E</map>
+        <text>login</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="383" y="562" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20Id/Pwd</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::LinkBar" x="753" y="128" w="-1" h="-1" measuredW="176" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>-1</selectedIndex>
+        <text>language%2Clogin%2C%20SignUp</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="565" y="561" w="106" h="26" measuredW="67" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SingUp</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
