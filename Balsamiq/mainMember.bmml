@@ -1,0 +1,123 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="959" measuredH="706" mockupW="827" mockupH="659">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="132" y="47" w="827" h="659" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20Seoul%0Ahttp%3A//hiseoul.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="132" y="188" w="812" h="27" measuredW="403" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>-1</selectedIndex>
+        <text>About%20HiSeoul%2C%20Giude%2C%20Tourist%2CBest%20Tour%2CCommunity</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="189" y="514" w="258" h="136" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Read%20This%20Notice%20Before%20....</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="189" y="482" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <href>Comm_Notice%26bm%3BComm_Notice.bmml%26bm%3BComm_Notice.bmml%26bm%3BComm_Notice.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C435%2C114%2C456%22%20href%3D%22Comm_Notice.bmml%22%20alt%3D%22Comm_Notice%22%20id%3D%225%22/%3E</map>
+        <size>18</size>
+        <text>Notice</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="804" y="514" w="74" h="50" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="705" y="514" w="74" h="50" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="599" y="585" w="74" h="50" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="705" y="585" w="74" h="50" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="804" y="585" w="74" h="50" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="599" y="478" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <href>Comm_Review%26bm%3BComm_Review.bmml%26bm%3BComm_Review.bmml%26bm%3BComm_Review.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22467%2C431%2C528%2C452%22%20href%3D%22Comm_Review.bmml%22%20alt%3D%22Comm_Review%22%20id%3D%2213%22/%3E</map>
+        <size>18</size>
+        <text>Review</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::ButtonBar" x="132" y="188" w="827" h="27" measuredW="377" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Introduce%26bm%3BIntroduce.bmml%26bm%3BIntroduce.bmml%26bm%3BIntroduce.bmml%2CGuide%26bm%3BGuide.bmml%26bm%3BGuide.bmml%26bm%3BGuide.bmml%2CTourist%26bm%3BTourist.bmml%26bm%3BTourist.bmml%26bm%3BTourist.bmml%2CBestTour%26bm%3BBestTour.bmml%26bm%3BBestTour.bmml%26bm%3BBestTour.bmml%2CCommunity%26bm%3BCommunity.bmml%26bm%3BCommunity.bmml%26bm%3BCommunity.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C141%2C177%2C168%22%20href%3D%22Introduce.bmml%22%20alt%3D%22Introduce%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22177%2C141%2C306%2C168%22%20href%3D%22Guide.bmml%22%20alt%3D%22Guide%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22306%2C141%2C448%2C168%22%20href%3D%22Tourist.bmml%22%20alt%3D%22Tourist%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22448%2C141%2C627%2C168%22%20href%3D%22BestTour.bmml%22%20alt%3D%22BestTour%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22627%2C141%2C824%2C168%22%20href%3D%22Community.bmml%22%20alt%3D%22Community%22%20id%3D%2215%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Introduce%2C%20Guide%2C%20Tourist%2CBest%20Tour%2CCommunity</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::SubTitle" x="196" y="134" w="-1" h="-1" measuredW="148" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>mainNonMember%26bm%3BmainNonMember.bmml%26bm%3BmainNonMember.bmml%26bm%3BmainNonMember.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2264%2C87%2C212%2C130%22%20href%3D%22mainNonMember.bmml%22%20alt%3D%22mainNonMember%22%20id%3D%2216%22/%3E</map>
+        <size>40</size>
+        <text>Hi%20Seoul</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CoverFlow" x="132" y="253" w="827" h="198" measuredW="493" measuredH="198" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="141" y="131" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <icon>YIMIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="599" y="513" w="74" h="52" measuredW="760" measuredH="1140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Comm_Review%26bm%3BComm_Review.bmml%26bm%3BComm_Review.bmml%26bm%3BComm_Review.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22467%2C466%2C541%2C518%22%20href%3D%22Comm_Review.bmml%22%20alt%3D%22Comm_Review%22%20id%3D%2220%22/%3E</map>
+        <src>../../%25EB%25B0%2594%25ED%2583%2595%25ED%2599%2594%25EB%25A9%25B4/%25EB%25B0%259C%25EC%2582%25AC%25EB%25AF%25B9/assets/%25E3%2584%25B4%25E3%2585%2581%25E3%2585%2587%25E3%2585%2581.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Image" x="416" y="272" w="263" h="160" measuredW="540" measuredH="360" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ClickGuide%26bm%3BClickGuide.bmml%26bm%3BClickGuide.bmml%26bm%3BClickGuide.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22284%2C225%2C547%2C385%22%20href%3D%22ClickGuide.bmml%22%20alt%3D%22ClickGuide%22%20id%3D%2221%22/%3E</map>
+        <src>../../%25EB%25B0%2594%25ED%2583%2595%25ED%2599%2594%25EB%25A9%25B4/%25EB%25B0%259C%25EC%2582%25AC%25EB%25AF%25B9/assets/%25ED%2598%25B8%25ED%2597%2588.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::LinkBar" x="745" y="130" w="-1" h="-1" measuredW="194" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CMyPage_personInfo%26bm%3BMyPage_personInfo.bmml%26bm%3BMyPage_personInfo.bmml%26bm%3BMyPage_personInfo.bmml%2CmainNonMember%26bm%3BmainNonMember.bmml%26bm%3BmainNonMember.bmml%26bm%3BmainNonMember.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22701%2C85%2C748%2C98%22%20href%3D%22MyPage_personInfo.bmml%22%20alt%3D%22MyPage_personInfo%22%20id%3D%2222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22766%2C85%2C807%2C98%22%20href%3D%22mainNonMember.bmml%22%20alt%3D%22mainNonMember%22%20id%3D%2222%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Hello%20Mr.Kim%2CMypage%2CLogout</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::ComboBox" x="615" y="127" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Language</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Icon" x="713" y="127" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mypage_Message%26bm%3BMypage_Message.bmml%26bm%3BMypage_Message.bmml%26bm%3BMypage_Message.bmml</href>
+        <icon>EmailIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22581%2C80%2C605%2C104%22%20href%3D%22Mypage_Message.bmml%22%20alt%3D%22Mypage_Message%22%20id%3D%2224%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
